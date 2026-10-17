@@ -1,5 +1,5 @@
 # Morihiko Mizuno
-名古屋大学大学院 M1 / 数理生物学・データサイエンス  
+名古屋大学大学院 M2 / 数理生物学・データサイエンス  
 
 ## Skills
 Python, R, scikit-learn, 数理モデル, 機械学習  
